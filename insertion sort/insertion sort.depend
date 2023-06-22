@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1687425632 source:/home/student/4NM21AI010/DAA/insertion sort/main.c
+	<stdio.h>
+	<stdlib.h>
+
